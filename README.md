@@ -1,4 +1,4 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Hugo Estrada
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) mi nombre es Hugo Estrada
 ====================================================================================================================================
 
 Estoy enfocado en el desarrollo e implementación de nuevas tecnologías en el ámbito de la automatización industrial, en la conectividad de las cosas. Amplia experiencia en diseño industrial sobre equipos industriales, robótica industrial, programación, utilizando a distintas herramientas.
